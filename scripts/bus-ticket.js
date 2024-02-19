@@ -5,4 +5,9 @@ function setBackgroundColor(seatNumber){
     selectSeat.classList.add('bg-green-700')
 }
 
-setBackgroundColor('seat-arrangement')
+function seatSelect(){
+    const selection=document.getElementById('seat-arrangement')
+    const selectionValue=selection.value ;  
+    selectionValue.classList
+    
+}
